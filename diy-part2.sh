@@ -17,7 +17,7 @@
 sed -i 's/OpenWrt/GHL-R-001/g' package/base-files/files/bin/config_generate
 
 # Modify the version number
-sed -i "s/OpenWrt / @ Yan-ME ☯ Build: $(TZ=UTC-8 date "+%Y.%m.%d") /Building Script: P3TERX | Source Code: Lean's OpenWrt /g" package/lean/default-settings/files/zzz-default-settings
+sed -i "s/OpenWrt /Yan-ME.TOP | Build: $(TZ=UTC-8 date "+%Y.%m.%d") / Auto Build Script: P3TERX | Source Code: Lean's OpenWrt /g" package/lean/default-settings/files/zzz-default-settings
 
 # Modify the password to null
 sed -i 's@.*CYXluq4wUazHjmCDBCqXF*@#&@g' package/lean/default-settings/files/zzz-default-settings
