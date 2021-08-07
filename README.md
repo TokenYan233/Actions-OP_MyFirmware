@@ -1,4 +1,4 @@
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/P3TERX/OpenWrt-Newifi_D2?style=for-the-badge&label=Download)](https://github.com/P3TERX/OpenWrt-Newifi_D2/releases/latest)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/TokenYan233/A-O_GeHua_GHL-R-001?style=for-the-badge&label=Download)](https://github.com/TokenYan233/A-O_GeHua_GHL-R-001/releases/latest)
 
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
