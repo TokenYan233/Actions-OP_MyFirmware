@@ -96,8 +96,7 @@ jobs:
       run: |
         cd openwrt
         make defconfig
-        make -j9 download V=s
-        make -j1 download
+        make -j9 download V=s && make -j1 download
         find dl -size -1024c -exec ls -l {} \;
         find dl -size -1024c -exec rm -f {} \;
 
