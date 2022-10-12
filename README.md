@@ -1,8 +1,10 @@
 
-:new: **Firmware** *Download*:
+:u6709::new:**Firmware**:accept:*Download*:arrow_double_down::point_down: [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/TokenYan233/Actions-OpenWrt_MyFirmware/blob/master/LICENSE)
+
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/TokenYan233/Actions-OpenWrt_MyFirmware?style=for-the-badge&label=Download)](https://github.com/TokenYan233/Actions-OpenWrt_MyFirmware/releases/latest)
+
 > GeHua GHL-R-001 & Xiaomi MiWiFi Nano
-:sunrise_over_mountains:
+:ghost:
 
 ------------
 
