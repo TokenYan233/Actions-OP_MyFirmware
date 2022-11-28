@@ -85,7 +85,7 @@ jobs:
       run: cd openwrt && ./scripts/feeds update -a && ./scripts/feeds update -a
 
     - name: Install feeds
-      run: cd openwrt && ./scripts/feeds install -a && ./scripts/feeds install -a
+      run: cd openwrt && ./scripts/feeds install -a
 
     - name: Load custom configuration
       run: |
@@ -100,7 +100,7 @@ jobs:
       run: |
         cd openwrt
         make defconfig
-        make download -j9
+        make download -j$(nproc)
         make -j1 download V=s
         find dl -size -1024c -exec ls -l {} \;
         find dl -size -1024c -exec rm -f {} \;
