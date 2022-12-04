@@ -17,7 +17,7 @@
 sed -i 's@.*CYXluq4wUazHjmCDBCqXF*@#&@g' package/lean/default-settings/files/zzz-default-settings
 
 # Modify hostname
-sed -i 's/OpenWrt/OpenWrt/g' package/base-files/files/bin/config_generate
+sed -i 's/OpenWrt/OpenWrt_Router/g' package/base-files/files/bin/config_generate
 
 # Modify the version number
 sed -i "s/OpenWrt /Yan-ME.TOP Build $(TZ=UTC-8 date "+%Y.%m.%d") @ Lean OpenWrt /g" package/lean/default-settings/files/zzz-default-settings
