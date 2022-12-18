@@ -4,9 +4,9 @@
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/TokenYan233/Actions-OP_MyFirmware?style=for-the-badge&label=Download)](https://github.com/TokenYan233/Actions-OP_MyFirmware/releases/latest)
 
-:repeat_one::u6708::two::eight::date::calendar::alarm_clock::keycap_ten:::keycap_ten::on::hourglass_flowing_sand::hammer:
+:repeat_one::u6708::one::three::twisted_rightwards_arrows::two::eight::date::calendar::alarm_clock::keycap_ten:::keycap_ten::on::hourglass_flowing_sand::hammer:
 
-`Runs at 10:10 UTC on the 28th of every month.`
+`Runs at 10:10 UTC on the 13th & 28th of every month.`
 
 > GeHua GHL-R-001 & Xiaomi MiWiFi Nano
 :ghost:
