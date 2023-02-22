@@ -9,7 +9,7 @@
 
 `Runs at 10:10 UTC on the 13th & 28th of every month.`
 
-> :ghost: GeHua GHL-R-001(HWNAT) :ghost: Xiaomi MiWiFi Nano :ghost:
+> :ghost: GeHua GHL-R-001(HWNAT) :ghost: GeHua GHL-R-001 :ghost: Xiaomi MiWiFi Nano :ghost:
 
 [**我的主页**](https://www.yan-me.top)
 ![GitHub Stars](https://img.shields.io/github/stars/TokenYan233/Actions-OP_MyFirmware?style=flat-square&label=Stars&logo=github)
