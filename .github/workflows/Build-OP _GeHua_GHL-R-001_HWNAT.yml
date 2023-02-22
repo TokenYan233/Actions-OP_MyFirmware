@@ -174,7 +174,7 @@ jobs:
       id: tag
       if: env.UPLOAD_RELEASE == 'true' && !cancelled()
       run: |
-        echo "::set-output name=release_tag::『GeHua_GHL-R-001』$(date +"%Y.%m.%d-%H:%M:%S")"
+        echo "::set-output name=release_tag::GeHua_GHL-R-001_HWNAT_$(date +"%Y.%m.%d-%H.%M.%S")"
         touch release.txt
         [ $UPLOAD_COWTRANSFER = true ] && echo "🔗 [Cowtransfer](${{ steps.cowtransfer.outputs.url }})" >> release.txt
         [ $UPLOAD_WETRANSFER = true ] && echo "🔗 [WeTransfer](${{ steps.wetransfer.outputs.url }})" >> release.txt
