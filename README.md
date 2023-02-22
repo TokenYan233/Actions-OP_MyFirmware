@@ -10,6 +10,8 @@
 
 > :ghost: GeHua GHL-R-001 :ghost: Xiaomi MiWiFi Nano :ghost:
 
+[**我的主页**](https://www.yan-me.top)
+
 ------------
 
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
