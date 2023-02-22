@@ -1,16 +1,19 @@
 
 :u6709::new:**Firmware**:accept::secret:*Download*:arrow_double_down::point_down:
-[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/TokenYan233/Actions-OP_MyFirmware/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/TokenYan233/Actions-OP_MyFirmware?style=for-the-badge&label=Download)](https://github.com/TokenYan233/Actions-OP_MyFirmware/releases/latest)
 
 :repeat_one::u6708::one::three::twisted_rightwards_arrows::two::eight::date::calendar::alarm_clock::keycap_ten:::keycap_ten::on::hourglass_flowing_sand::hammer:
+![GitHub Forks](https://img.shields.io/github/forks/TokenYan233/Actions-OP_MyFirmware?style=flat-square&label=Forks&logo=github)
 
 `Runs at 10:10 UTC on the 13th & 28th of every month.`
 
 > :ghost: GeHua GHL-R-001 :ghost: Xiaomi MiWiFi Nano :ghost:
 
 [**我的主页**](https://www.yan-me.top)
+![GitHub Stars](https://img.shields.io/github/stars/TokenYan233/Actions-OP_MyFirmware?style=flat-square&label=Stars&logo=github)
+
 
 ------------
 
