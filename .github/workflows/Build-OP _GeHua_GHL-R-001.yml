@@ -22,7 +22,7 @@ on:
     - cron: 10 10 13,28 * *
 
 env:
-  REPO_URL: https://github.com/aiamadeus/lede.git
+  REPO_URL: https://github.com/coolsnowwolf/lede.git
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: CFGs/GeHua_GHL-R-001.config
