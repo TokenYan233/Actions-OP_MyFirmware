@@ -8,8 +8,7 @@
 
 `Runs at 10:10 UTC on the 13th & 28th of every month.`
 
-> GeHua GHL-R-001 & Xiaomi MiWiFi Nano
-:ghost:
+> :ghost: GeHua GHL-R-001 :ghost: Xiaomi MiWiFi Nano :ghost:
 
 ------------
 
