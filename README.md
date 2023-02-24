@@ -5,7 +5,6 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/TokenYan233/Actions-OP_MyFirmware?style=for-the-badge&label=Download)](https://github.com/TokenYan233/Actions-OP_MyFirmware/releases/latest)
 
 :repeat_one::u6708::one::three::twisted_rightwards_arrows::two::eight::date::calendar::alarm_clock::keycap_ten:::keycap_ten::on::hourglass_flowing_sand::hammer:
-![GitHub Forks](https://img.shields.io/github/forks/TokenYan233/Actions-OP_MyFirmware?style=flat-square&label=Forks&logo=github)
 
 `Runs at 10:10 UTC on the 13th & 28th of every month.`
 
@@ -13,6 +12,7 @@
 
 [**我的主页**](https://www.yan-me.top)
 ![GitHub Stars](https://img.shields.io/github/stars/TokenYan233/Actions-OP_MyFirmware?style=flat-square&label=Stars&logo=github)
+![GitHub Forks](https://img.shields.io/github/forks/TokenYan233/Actions-OP_MyFirmware?style=flat-square&label=Forks&logo=github)
 
 
 ------------
