@@ -14,7 +14,7 @@
 [**我的主页**](https://www.yan-me.top)
 ![GitHub Stars](https://img.shields.io/github/stars/TokenYan233/Actions-OP_MyFirmware?style=flat-square&label=Stars&logo=github)
 ![GitHub Forks](https://img.shields.io/github/forks/TokenYan233/Actions-OP_MyFirmware?style=flat-square&label=Forks&logo=github)
-
+暂停自动编译，路由卖了
 
 ------------
 
