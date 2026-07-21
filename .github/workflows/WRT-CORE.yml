@@ -100,8 +100,8 @@ jobs:
         run: |
           git clone $WRT_REPO ./wrt/
 
-          cd ./wrt/ && echo "WRT_HASH=$(git log -1 --pretty=format:'%h')" >> $GITHUB_ENV
-          git checkout $WRT_BRANCH
+          cd ./wrt/ && git checkout $WRT_BRANCH
+          echo "WRT_HASH=$(git log -1 --pretty=format:'%h')" >> $GITHUB_ENV
 
           # GitHub Action 移除国内下载源
           PROJECT_MIRRORS_FILE="./scripts/projectsmirrors.json"
@@ -182,7 +182,7 @@ jobs:
         run: |
           cd ./wrt/
 
-          make download -j1 V=s
+          make download -j1 V=s || make download -j$(nproc)
 
       - name: Compile Firmware
         if: env.WRT_TEST != 'true'
