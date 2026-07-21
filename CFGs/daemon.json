@@ -1,4 +1,0 @@
-{
-  "registry-mirrors": ["https://docker.mirrors.ustc.edu.cn","https://hub.docker.com","http://hub-mirror.c.163.com"],
-  "data-root": "/mnt/docker"
-}
