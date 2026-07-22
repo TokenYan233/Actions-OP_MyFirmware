@@ -103,7 +103,7 @@ jobs:
         run: |
           git clone --depth=0 --single-branch --branch $WRT_BRANCH $WRT_REPO ./wrt/
 
-          cd ./wrt/ && git checkout 
+          cd ./wrt/ && git checkout a188e3ba10ff8654fdfd99457f756c70c5534d7a
           echo "WRT_HASH=$(git log -1 --pretty=format:'%h')" >> $GITHUB_ENV
 
           # GitHub Action 移除国内下载源
